@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NovaFirestar
+- 👀 I’m interested in server development 
+- 🌱 I’m currently learning C#, PHP, JS
+- 📫 How to reach me Discord: Nova Firestar#5583
