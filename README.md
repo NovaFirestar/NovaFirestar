@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NovaFirestar
-- 👀 I’m interested in server development 
-- 🌱 I’m currently learning C#, PHP, JS
+- 👀 I’m interested in developing hacking tools in Python  
+- 🌱 I’m currently learning Python and Golang
 - 📫 How to reach me Discord: Nova Firestar#5583
-- I got nothing else to say for now
