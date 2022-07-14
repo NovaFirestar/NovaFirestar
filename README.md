@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NovaFirestar
+- 👋 Hi, I’m Nova Firestar
 - 👀 I’m interested in developing hacking tools in Python  
 - 🌱 I’m currently learning Python and Rust
 - 📫 Nova Firestar#5583
