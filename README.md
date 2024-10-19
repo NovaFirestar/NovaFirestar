@@ -1,4 +1,4 @@
-# 👋  Hi, I’m Max!
+# 👋  Hi
 
 - I program in JS/TS and Rust!
 - Guitarist
