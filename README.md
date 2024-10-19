@@ -1,4 +1,4 @@
 # 👋  Hi
 
-- I program in JS/TS and Rust!
+- I do programmering
 - Guitarist
